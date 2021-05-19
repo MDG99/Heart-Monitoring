@@ -1,0 +1,18 @@
+Arduino y AndroidStudio:
+
+Android Studio 4.0 y Arduino - Comunicacion Bluetooth - Parte 1
+https://www.youtube.com/watch?v=YqNIN4t7IuM
+
+
+Gráficas:
+
+Working Code Oct 2019 ] Real Time Accelerometer Data Plot in Android using MPAndroidChart Library
+https://www.youtube.com/watch?v=QEbljbZ4dNs
+
+MPAndroidChart
+https://jitpack.io/p/Semirke/MPAndroidChart
+
+Animaciones Lottie:
+
+Android Animations Using Lottie | Intro Screens, Checkbox, Switch, and Loading | Kotlin | Java
+https://www.youtube.com/watch?v=n7XTizCon0A
